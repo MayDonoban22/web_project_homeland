@@ -10,9 +10,25 @@
 
 @media screen and (max-width: 1280px) {
   .logo {
+    padding-top: 34px;
+    max-width: 254.84px;
+    max-height: 69.94px;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 768px) {
+  .logo {
     padding-top: 30px;
     max-width: 254px;
     max-height: 66px;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 320px) {
+  .logo {
+    padding-top: 20px;
+    max-width: 188px;
+    max-height: 52px;
     width: 100%;
   }
 }
