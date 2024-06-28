@@ -1,1 +1,3 @@
 # Tripleten web_project_homeland
+
+En este proyecto veremos como se lleva a cabo la costruccion de una pagina web atraves de todas las herramientas aprendidas en todos los sprints vistos anteriormente, asi mismo utilizamos figma que tomamos como nuestro brief para estructurar adecuadamente nuestro proyecto utilizando puntos de ruptura que corresponde a los media querys para dar dimensiones a nuestra pagina web y utilizarlo en diferentes dispositivos, despues creamos la url para mostrar nuestra pagina web al publico y disfruten de el resultado. a continuacion presento mi pagina web: https://maydonoban22.github.io/web_project_homeland/
