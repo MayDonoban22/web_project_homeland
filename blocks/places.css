@@ -22,6 +22,7 @@
   padding-top: 92px;
   font-family: "Inter";
   color: #ffffff;
+  overflow: hidden;
 }
 .places__item-title {
   grid-area: title;
